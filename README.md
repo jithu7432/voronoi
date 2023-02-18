@@ -1,5 +1,3 @@
-# Voronoi Diagram
-- https://en.wikipedia.org/wiki/Voronoi_diagram
+## Euclidean:
+![Voronoi Diagram](/.github/voronoi.png?raw=true "Voronoi Diagram")
 
-# Implementations
-- Python: https://github.com/jithu7432/voronoi-diagram/blob/python/README.md
