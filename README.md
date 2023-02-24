@@ -2,6 +2,6 @@
 - https://en.wikipedia.org/wiki/Voronoi_diagram
 
 # Implementations
-- [Python](https://github.com/jithu7432/voronoi-diagram/blob/python/README.md)
+- [Python](https://github.com/jithu7432/voronoi/blob/python/README.md)
 
-- [C](https://github.com/jithu7432/voronoi-diagram/blob/C/README.md)
+- [C](https://github.com/jithu7432/voronoi/blob/C/README.md)
